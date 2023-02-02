@@ -1,0 +1,27 @@
+body{
+    background: rgb(255, 255, 0);
+    zoom: 60%; 
+}
+
+.centrado {
+    margin-left: 500px;
+}
+p {
+    font-family: 'Dosis', sans-serif;
+    font-size: 70px;
+    text-align: center;
+}
+.texto {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.perfil {
+    text-align:center;
+}
+img {
+    text-align: left;
+    margin-left: 10px;
+}
+
+/* ¡Felicidades! ¡Has descubierto la hoja de estilos! ¿Gran hazaña no?

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap'); 
+/*Bienvenido a la hoja de estilos ;)*/
+/*Que crees que vas a descubrir aqui? */
+body {
+    background-color:whitesmoke;
+}
+
+.titulo {
+    font-family: 'Unbounded', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    margin-left: 20px;
+    font-family: 'Unbounded', under;
+}
+
+.pres {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.filtros {  
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    display: flex;
+    
+}
+.filter2 {
+    margin-left: 50px;
+}
+
+.filter3 {
+    margin-left: 30px;
+}
+
+.links {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.contenedor-imagenes {
+    display: flex;
+    margin-left: 20px;
+  }
+  
+  .contenedor-imagenes img:first-child {
+    margin-right: 20px;
+}
+
+.return {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: right;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+
+.info {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 30px;
+}
